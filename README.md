@@ -1,0 +1,1 @@
+POCs for pharases comparision with different algorithems and a pretrained word vector.
