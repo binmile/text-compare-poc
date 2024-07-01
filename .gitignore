@@ -1,1 +1,6 @@
-./venv
+venv/
+
+data/
+
+# exception to the rule
+!data/.gitkeep 
